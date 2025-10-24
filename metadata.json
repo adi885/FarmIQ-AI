@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FarmIQ - AI Crop Assistant",
+  "description": "An AI-powered chat application for Indian farmers. Users can upload images of crops to get a diagnosis, treatment recommendations (including Ayurvedic remedies), cost estimates, and information about the plant's uses. The chatbot communicates in simple Hinglish to ensure ease of use.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
